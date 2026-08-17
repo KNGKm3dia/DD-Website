@@ -1,2 +1,2 @@
 # DD-Website
-Website made for a clothing brand in port harcourt Nigeria
+Website made for a clothing brand in Port-Harcourt Nigeria
